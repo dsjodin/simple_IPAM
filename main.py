@@ -1,4 +1,4 @@
-#QnD Simple IPAM for test purpose
+#QnD Simple IPAM API for test purpose
 
 from fastapi import FastAPI, Request
 from fastapi.responses import HTMLResponse
